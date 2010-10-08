@@ -2,3 +2,4 @@
 \.kpf$
 .git
 .gitignore
+MANIFEST.SKIP
