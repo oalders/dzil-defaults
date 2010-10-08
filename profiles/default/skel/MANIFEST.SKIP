@@ -1,0 +1,4 @@
+.build
+\.kpf$
+.git
+.gitignore
