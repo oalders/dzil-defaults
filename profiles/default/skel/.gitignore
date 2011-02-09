@@ -1,3 +1,4 @@
 /{{$dist->name}}*
 .build
 *.kpf
+*.komodoproject
