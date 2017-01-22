@@ -1,2 +1,6 @@
 /{{$dist->name}}*
 .build
+local
+*.swo
+*.swp
+.tidyall.d
